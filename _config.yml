@@ -1,0 +1,28 @@
+name: roydufrain
+favicon: null
+layout_spectrum: 0.4334866530261934
+typography_spectrum: 0.5365374062675983
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#583124'
+    - '#130f0c'
+    - '#b3785a'
+    - '#cc988b'
+    - '#8b5d46'
+  brandStrength: 0.7468794104643166
+  lightness: 0.24883675249293447
+  saturation: 0.5215571450535208
+  rhythmicContrast: 0.5322074184659868
+purpose: []
